@@ -1,0 +1,1111 @@
+WMO SEA-ICE NOMENCLATURE
+
+TERMINOLOGY - VOLUME I
+WMO/OMM/ВМО - No.259  Edition 1970 - 2014
+Ice terms arranged by subject
+
+1
+	
+
+Floating ice: Any form of ice found floating in water. The principal kinds of floating ice are lake ice, river ice, and sea ice which form by the freezing of water at the surface, and glacier ice (ice of land origin) formed on land or in an ice shelf. The concept includes ice that is stranded or grounded.
+
+1.1
+	
+
+Sea ice: Any form of ice found at sea which has originated from the freezing of sea water.
+
+1.1.1
+	
+
+Fast ice: Cf. 3.1 - Sea ice which forms and remains fast along the coast, where it is attached to the shore, to an ice wall, to an ice front, between shoals or grounded icebergs. Vertical fluctuations may be observed during changes of sea-level.Fast ice may be formed in situ from sea water or by freezing of floating ice of any age to the shore, and it may extend a few metres or several hundred kilometres from the coast. Fast ice may be more than one year old and may then be prefixed with the appropriate age category (old, second-year, or multi-year). If it is thicker than about 2 m above sea-level it is called an ice shelf.
+
+1.1.2
+	
+
+Drift ice / pack ice: Term used in a wide sense to include any area of sea ice other than fast ice no matter what form it takes or how it is disposed. When concentrations are high, i.e. 7/10 or more, drift ice may be replaced by the term pack ice*.
+*Note: Previosly the term pack ice was used for all ranges of concentration.
+
+1.2
+	
+
+Ice of land origin: Ice formed on land or in an ice shelf, found floating in water. The concept includes ice that is stranded or grounded.
+
+1.3
+	
+
+Lake ice: Ice formed on a lake, regardless of observed location.
+
+1.4
+	
+
+River ice: Ice formed on a river, regardless of observed location.
+
+2
+	
+
+Development
+
+2.1
+	
+
+New ice: A general term for recently formed ice which includes frazil ice, grease ice, slush and shuga. These types of ice are composed of ice crystals which are only weakly frozen together (if at all) and have a definite form only while they are afloat.
+
+2.1.1
+	
+
+Frazil ice: Fine spicules or plates of ice, suspended in water.
+
+2.1.2
+	
+
+Grease ice: A later stage of freezing than frazil ice when the crystals have coagulated to form a soupy layer on the surface. Grease ice reflects little light, giving the sea a matt appearance.
+
+2.1.3
+	
+
+Slush: Snow which is saturated and mixed with water on land or ice surfaces, or as a viscous floating mass in water after a heavy snowfall.
+
+2.1.4
+	
+
+Shuga: An accumulation of spongy white ice lumps, a few centimetres across; they are formed from grease ice or slush and sometimes from anchor ice rising to the surface.
+
+2.2
+	
+
+Nilas: A thin elastic crust of ice, easily bending on waves and swell and under pressure, thrusting in a pattern of interlocking 'fingers' (finger rafting). Has a matt surface and is up to 10 cm in thickness. May be subdivided into dark nilas and light nilas.
+
+2.2.1
+	
+
+Dark nilas: Nilas which is under 5 cm in thickness and is very dark in colour.
+
+2.2.2
+	
+
+Light nilas: Nilas which is more than 5 cm in thickness and rather lighter in colour than dark nilas.
+
+2.2.3
+	
+
+Ice rind: A brittle shiny crust of ice formed on a quiet surface by direct freezing or from grease ice, usually in water of low salinity. Thickness to about 5 cm. Easily broken by wind or swell, commonly breaking in rectangular pieces.
+
+2.3
+	
+
+Pancake ice: Predominantly circular pieces of ice from 30 cm - 3 m in diameter, and up to about 10 cm in thickness, with raised rims due to the pieces striking against one another. It may be formed on a slight swell from grease ice, shuga or slush or as a result of the breaking of ice rind, nilas or, under severe conditions of swell or waves, of grey ice. It also sometimes forms at some depth at an interface between water bodies of different physical characteristics, from where it floats to the surface; its appearance may rapidly cover wide areas of water.
+
+2.4
+	
+
+Young ice: Ice in the transition stage between nilas and first-year ice, 10-30 cm in thickness. May be subdivided into grey ice and grey-white ice.
+
+2.4.1
+	
+
+Grey ice: Young ice 10-15 cm thick. Less elastic than nilas and breaks on swell. Usually rafts under pressure.
+
+2.4.2
+	
+
+Grey-white ice: Young ice 15-30 cm thick. Under pressure more likely to ridge than to raft.
+
+2.5
+	
+
+First-year ice: Sea ice of not more than one winter's growth, developing from young ice; thickness 30 cm - 2 m. May be subdivided into thin first-year ice/white ice, medium first-year ice and thick first-year ice.
+
+2.5.1
+	
+
+Thin first-year ice / white ice: First-year ice 30-70 cm thick.
+
+2.5.1.1
+	
+
+Thin first-year ice / white ice first stage: 30-50 cm thick.
+
+2.5.1.2
+	
+
+Thin first-year ice / white ice second stage: 50-70 cm thick.
+
+2.5.2
+	
+
+Medium first-year ice: First-year ice 70-120 cm thick.
+
+2.5.3
+	
+
+Thick first-year ice: First-year ice over 120 cm thick.
+
+2.6
+	
+
+Old ice: Sea ice which has survived at least one summer's melt; typical thickness up to 3m or more. Most topographic features are smoother than on first-year ice. May be subdivided into residual, second-year ice and multi-year ice.
+
+2.6.1
+	
+
+Residual ice: First-year ice that has survived the summer’s melt and is now in the new cycle of growth. It is 30 to 180 cm thick depending on the region where it was in summer. After 1 January (in the Southern hemisphere after 1 July), this ice is called second-year ice.
+
+2.6.2
+	
+
+Second-year ice: Old ice which has survived only one summer's melt; typical thickness up to 2.5 m and sometimes more. Because it is thicker than first-year ice, it stands higher out of the water. In contrast to multi-year ice, summer melting produces a regular pattern of numerous small puddles. Bare patches and puddles рrх usually greenish-blue.
+
+2.6.3
+	
+
+Multi-year ice: Old ice up to 3 m or more thick which has survived at least two summers' melt. Hummocks even smoother than in second-year ice, and the ice is almost salt-free. Colour, where bare, is usually blue. Melt pattern consists of large interconnecting irregular puddles and a well-developed drainage system.
+
+2.7
+	
+
+Development of lake ice: Because of the absence of salt in the water, the freezing and growth processes of lake ice are considerably different from those of sea ice. Generally, lake ice forms and is destroyed more quickly than sea ice, is more brittle and harder than sea ice.
+
+2.7.1
+	
+
+New lake ice: Recently formed lake ice less than 5 cm thick.
+
+2.7.2
+	
+
+Thin lake ice: Lake ice that is 5-15 cm in thickness.
+
+2.7.3
+	
+
+Medium lake ice: Lake ice that is 15-30 cm in thickness.
+
+2.7.4
+	
+
+Thick lake ice: Lake ice that is 30-70 cm in thickness.
+
+2.7.5
+	
+
+Very thick lake ice: Lake ice that is greater than 70 cm in thickness.
+
+2.8
+	
+
+Snow Ice: Ice formed by refreezing flooded snow creating an ice layer that bonds firmly to the top surface of a floe.
+
+3
+	
+
+Forms of fast ice
+
+3.1
+	
+
+Fast ice: Sea ice which forms and remains fast along the coast, where it is attached to the shore, to an ice wall, to an ice front, between shoals or grounded icebergs. Vertical fluctuations may be observed during changes of sea-level. Fast ice may be formed in situ from sea water or by freezing of floating ice of any age to the shore, and it may extend a few metres or several hundred kilometres from the coast. Fast ice may be more than one year old and may then be prefixed with the appropriate age category (old, second-year, or multi-year). If it is thicker than about 2 m above sea-level it is called an ice shelf.
+
+3.1.1
+	
+
+Young coastal ice: The initial stage of fast ice formation consisting of nilas or young ice, its width varying from a few metres up to 100-200 m from the shoreline.
+
+3.2
+	
+
+Icefoot: A narrow fringe of ice attached to the coast, unmoved by tides and remaining after the fast ice has moved away.
+
+3.3
+	
+
+Anchor ice: Submerged ice attached or anchored to the bottom, irrespective of the nature of its formation.
+
+3.4
+	
+
+Grounded ice: Floating ice which is aground in shoal water.
+
+3.4.1
+	
+
+Stranded ice: Ice which has been floating and has been deposited on the shore by retreating high water.
+
+3.4.2
+	
+
+Grounded hummock: Hummocked grounded ice formation. There are single grounded hummocks and lines (or chains) of grounded hummocks.
+
+4
+	
+
+Occurrence of floating ice
+
+4.1
+	
+
+Ice cover: The ratio of an area of ice of any concentration to the total area of sea surface within some large geographic local; this local may be global, hemispheric, or prescribed by a specific oceanographic entity such as Baffin Bay or the Barents Sea.
+
+4.2
+	
+
+Concentration: The ratio expressed in tenths* describing the amount of the sea surface covered by ice as a fraction of the whole area being considered. Total concentration includes all stages of development that are present, partial concentration may refer to the amount of a particular stage or of a particular form of ice and represents only a part of the total.
+*Note: In historical sea-ice data octas have been used by some countries.
+
+4.2.1
+	
+
+Compact ice: Floating ice in which the concentration is 10/10 and no water is visible.
+
+4.2.1.1
+	
+
+Consolidated ice: Floating ice in which the concentration is 10/10 and the floes are frozen together.
+
+4.2.2
+	
+
+Very close ice: Floating ice in which the concentration is 9/10 to less than 10/10.
+
+4.2.3
+	
+
+Close ice: Floating ice in which the concentration is 7/10 to 8/10, composed of floes mostly in contact.
+
+4.2.4
+	
+
+Open ice: Floating ice in which the ice concentration is 4/10 to 6/10, with many leads and polynyas, and the floes are generally not in contact with one another.
+
+4.2.5
+	
+
+Very open ice: Floating ice in which the concentration is 1/10 to 3/10 and water preponderates over ice.
+
+4.2.6
+	
+
+Open water: A large area of freely navigable water in which sea ice is present in concentrations less than 1/10. No ice of land origin is present.
+
+4.2.7
+	
+
+Bergy water: An area of freely navigable water in which ice of land origin is present in concentrations less than 1/10. There may be sea ice present, although the total concentration of all ice shall not exceed 1/10.
+
+4.2.8
+	
+
+Ice-free: No ice present. If ice of any kind is present this term should not be used.
+
+4.3
+	
+
+Forms of floating ice
+
+4.3.1
+	
+
+Pancake ice: Predominantly circular pieces of ice from 30 cm - 3 m in diameter, and up to about 10 cm in thickness, with raised rims due to the pieces striking against one another. It may be formed on a slight swell from grease ice, shuga or slush or as a result of the breaking of ice rind, nilas or, under severe conditions of swell or waves, of grey ice. It also sometimes forms at some depth at an interface between water bodies of different physical characteristics, from where it floats to the surface; its appearance may rapidly cover wide areas of water.
+
+4.3.2
+	
+
+Floe: Any contiguous piece of sea ice. Floes are subdivided according to horizontal extent as follows:
+
+4.3.2.1
+	
+
+Floe giant: Over 10 km across.
+
+4.3.2.2
+	
+
+Floe vast: 2-10 km across.
+
+4.3.2.3
+	
+
+Floe big: 500-2000 m across.
+
+4.3.2.4
+	
+
+Floe medium: 100-500 m across.
+
+4.3.2.5
+	
+
+Floe small: 20-100 m across.
+
+4.3.2.6
+	
+
+Ice cake: Less than 20 m across.
+
+4.3.2.7
+	
+
+Small ice cake: Less than 2 m across.
+
+4.3.3
+	
+
+Cake ice: Cake Ice is commonly used in Antarctica to refer to a collection of ice cakes. This should not to be confused with pancake ice. Cake ice is older and thicker than pancake ice.
+
+4.3.4
+	
+
+Floeberg: A massive piece of sea ice composed of a hummock, or a group of hummocks frozen together, and separated from any ice surroundings. It may typically protrude up to 5 m above sea-level.
+
+4.3.4.1
+	
+
+Floebit: A relatively small piece of sea ice, normally not more than 10 m across composed of (a) hummock(s) or part of (a) ridge(s) frozen together and separated from any surroundings. It typically protrudes up to 2 m above sea-level.
+
+4.3.5
+	
+
+Ice breccia: Ice of different stages of development frozen together.
+
+4.3.6
+	
+
+Brash ice: Accumulations of floating ice made up of fragments not more than 2 m across, the wreckage of other forms of ice.
+
+4.3.7
+	
+
+Iceberg: Cf. 10.4.2 - A massive piece of ice of greatly varying shape, protruding more than 5 m above sea-level, which has broken away from a glacier, and which may be afloat or aground. Icebergs may be described as tabular, dome-shaped, sloping, pinnacled, dry-docked, blocky, weathered or glacier bergs in addition to having a size qualifier.
+
+4.3.7.1
+	
+
+Glacier berg: Cf. 10.4.2.1 - An irregularly shaped iceberg.
+
+4.3.7.2
+	
+
+Tabular berg: Cf. 10.4.2.2 - A flat-topped iceberg. Most tabular bergs form by calving from an ice shelf and show horizontal banding (cf. ice island).
+
+4.3.7.3
+	
+
+Domed iceberg: An iceberg which is smooth and rounded on top.
+
+4.3.7.4
+	
+
+Sloping iceberg: An iceberg which is rather flat on top and with steep vertical sides on one end, sloping to lesser sides on the other end.
+
+4.3.7.5
+	
+
+Pinnacled iceberg: An iceberg with a central spire or pyramid, with one or more spires.
+
+4.3.7.6
+	
+
+Dry-docked iceberg: An iceberg which is eroded such that a U-shaped slot is formed near or at water level, with twin columns or pinnacles. This is also referred to as a twinned iceberg.
+
+4.3.7.7
+	
+
+Blocky iceberg: A flat-topped iceberg with steep vertical sides.
+
+4.3.7.8
+	
+
+Weathered iceberg: An iceberg that shows marked signs of deterioration from the effects of atmosphere and ocean.
+
+4.3.7.9
+	
+
+Ice island: Cf. 10.4.3 - A large piece of floating ice protruding about 5 m above sea-level, which has broken away from an Arctic ice shelf, having a thickness of 30-50 m and an area of from a few thousand sq.m to 500 km² or more, and usually characterized by a regularly undulating surface which gives it a ribbed appearance from the air.
+
+4.3.7.10
+	
+
+Ice island Fragment: Piece of an ice island that has broken away from the main mass.
+
+4.3.7.11
+	
+
+Very large iceberg: A piece of glacier ice extending more than 75 m above sea level and with a length of more than 200 m.
+
+4.3.7.12
+	
+
+Large iceberg: A piece of glacier ice extending 46 to 75 m above sea level and with a length of 121 to 200 m.
+
+4.3.7.13
+	
+
+Medium iceberg: A piece of glacier ice extending 16 to 45 m above sea level and with a length of 61 to 120 m.
+
+4.3.7.14
+	
+
+Small iceberg: A piece of glacier ice extending 5 to 15 m above sea level and with a length of 15 to 60 m.
+
+4.3.7.15
+	
+
+Bergy bit: Cf. 10.4.4 - A large piece of floating glacier ice, generally showing less than 5 m above sea-level but more than 1 m and normally about 100-300 m² in area.
+
+4.3.7.16
+	
+
+Growler: Cf. 10.4.5 - Piece of ice smaller than a bergy bit and floating less than 1 m above the sea surface, a growler generally appears white but sometimes transparent or blue-green in colour. Extending less than 1 m above the sea surface and normally occupying an area of about 20 m², growlers are difficult to distinguish when surrounded by sea ice or in high sea state.
+
+4.4
+	
+
+Arrangement
+
+4.4.1
+	
+
+Ice field: Area of floating ice consisting of any size of floes, which is greater than 10 km across (cf. patch).
+
+4.4.1.1
+	
+
+Large ice field: An ice field over 20 km across.
+
+4.4.1.2
+	
+
+Medium ice field: An ice field 15-20 km across.
+
+4.4.1.3
+	
+
+Small ice field: An ice field 10-15 km across.
+
+4.4.1.4
+	
+
+Ice patch: An area of floating ice less than 10 km across.
+
+4.4.2
+	
+
+Ice massif: A variable accumulation of close or very close ice covering hundreds of square kilometers which is found in the same region every summer.
+
+4.4.3
+	
+
+Belt: A large feature of drift ice arrangement; longer than it is wide; from 1 km to more than 100 km in width.
+
+4.4.4
+	
+
+Tongue: A projection of the ice edge up to several kilometers in length, caused by wind or current.
+
+4.4.5
+	
+
+Strip: Long narrow area of floating ice, about 1 km or less in width, usually composed of small fragments detached from the main mass of ice, and run together under the influence of wind, swell or current.
+
+4.4.5.1
+	
+
+Ice isthmus: A narrow connection between two ice areas of very close or compact ice. It may be difficult to pass, whilst sometimes being part of a recommended route.
+
+4.4.6
+	
+
+Bight: An extensive crescent-shaped indentation in the ice edge, formed by either wind or current.
+
+4.4.7
+	
+
+Ice jam: An accumulation of broken river ice or sea ice not moving due to some physical restriction and resisting to pressure.
+
+4.4.8
+	
+
+Ice edge: The demarcation at any given time between the open sea and sea ice of any kind, whether fast or drifting. It may be termed compacted or diffuse (cf. ice boundary).
+
+4.4.8.1
+	
+
+Compacted ice edge: Close, clear-cut ice edge compacted by wind or current; usually on the windward side of an area of drift ice.
+
+4.4.8.1.1
+	
+
+Jammed brash barrier: A strip or narrow belt of new, young or brash ice (usually 100-5000 m wide) formed at the edge of either drift or fast ice or at the shore. It is heavily compacted mostly due to wind action and may extend 2 to 20 m below the surface but does not normally have appreciable topography. Jammed brash barrier may disperse with changing winds but can also consolidate to form a strip of unusually thick ice in comparison with the surrounding drift ice. This is also known as a windrow in the Baltic Sea.
+
+4.4.8.2
+	
+
+Diffuse ice edge: Poorly defined ice edge limiting an area of dispersed ice; usually on the leeward side of an area of drift ice.
+
+4.4.8.3
+	
+
+Ice limit: Climatological term referring to the extreme minimum or extreme maximum extent of the ice edge in any given month or period based on observations over a number of years. Term should be preceded by minimum or maximum (cf. mean ice edge).
+
+4.4.8.4
+	
+
+Mean ice edge: Average position of the ice edge in any given month or period based on observations over a number of years. Other terms which may be used are mean maximum ice edge and mean minimum ice edge (cf. ice limit and median ice edge).
+
+4.4.8.5
+	
+
+Median ice edge: Median (50% occurrence) position of the ice edge in any period based on a sufficient number of observations (cf. ice limit and mean ice edge)
+
+4.4.8.6
+	
+
+Fast-ice edge: The demarcation at any given time between fast ice and open water.
+
+4.4.9
+	
+
+Ice boundary: The demarcation at any given time between fast ice and drift ice or between areas of drift ice of different concentrations (cf. ice edge).
+
+4.4.9.1
+	
+
+Fast ice boundary: The ice boundary at any given time between fast ice and drift ice.
+
+4.4.9.2
+	
+
+Concentration boundary: A line approximating the transition between two areas of drift ice with distinctly different concentrations.
+
+4.4.10
+	
+
+Iceberg tongue: Cf. 10.4.2.3 - A major accumulation of icebergs projecting from the coast, held in place by grounding and joined together by fast ice.
+
+4.4.11
+	
+
+Marginal Ice Zone: The region of an ice cover which is affected by waves and swell penetrating into the ice from the open ocean.
+
+5
+	
+
+Floating-ice motion processes
+
+5.1
+	
+
+Diverging: Ice fields or floes in an area are subjected to diverging or dispersive motion, thus reducing ice concentration and/or relieving stresses in the ice.
+
+5.2
+	
+
+Compacting: Pieces of floating ice are said to be compacting when they are subjected to a converging motion, which increases ice concentration and/or produces stresses which may result in ice deformation.
+
+5.3
+	
+
+Shearing: An area of drift ice is subject to shear when the ice motion varies significantly in the direction normal to the motion, subjecting the ice to rotational forces. These forces may result in phenomena similar to a flaw (q.v.).
+
+6
+	
+
+Deformation processes
+
+6.1
+	
+
+Fracturing: Pressure process whereby ice is permanently deformed, and rupture occurs. Most commonly used to describe breaking across very close ice, compact ice and consolidated ice.
+
+6.2
+	
+
+Hummocking: The pressure process by which sea ice is forced into hummocks. When the floes rotate in the process it is termed screwing.
+
+6.3
+	
+
+Ridging: The pressure process by which sea ice is forced into ridges.
+
+6.4
+	
+
+Rafting: Pressure processes whereby one piece of ice overrides another. Most common in new and young ice (cf. finger rafting).
+
+6.4.1
+	
+
+Finger rafting: Type of rafting whereby interlocking thrusts are formed like -Y´fingers¡ alternately over and under the other. This is commonly found in nilas and in grey ice. (It was noted that finger rafting in grey ice is common in Antarctica).
+
+6.5
+	
+
+Shore ice ride-up: A process by which ice is pushed ashore as a slab.
+
+6.6
+	
+
+Weathering: Processes of ablation and accumulation which gradually eliminate irregularities in an ice surface.
+
+7
+	
+
+Openings in the ice
+
+7.1
+	
+
+Fracture: Any break or rupture through very close ice, compact ice, consolidated ice, fast ice, or a single floe resulting from deformation processes. Fractures may contain brash ice and/or be covered with nilas and/or young ice. Length may vary from a few meters to many kilometers.
+
+7.1.1
+	
+
+Crack: Any fracture of fast ice, consolidated ice or a single floe which may have been followed by separation ranging from a few centimeters to 1 m.
+
+7.1.1.1
+	
+
+Tide crack: Crack at the line of junction between an immovable ice foot or ice wall and fast ice, the latter subject to rise and fall of the tide.
+
+7.1.1.2
+	
+
+Flaw: A narrow separation zone between drift ice and fast ice, where the pieces of ice are in chaotic state; it forms when drift ice shears under the effect of a strong wind or current along the fast ice boundary (cf. shearing).
+
+7.1.2
+	
+
+Very small fracture: 1 to 50 m wide.
+
+7.1.3
+	
+
+Small fracture: 50 to 200 m wide.
+
+7.1.4
+	
+
+Medium fracture: 200 to 500 m wide.
+
+7.1.5
+	
+
+Large fracture: More than 500 m wide.
+
+7.2
+	
+
+Fracture zone: An area which has a great number of fractures.
+
+7.2.1
+	
+
+Fractures concentration: Degree of disunity in an ice area.
+
+7.3
+	
+
+Lead: Any fracture or passage-way through sea ice which is navigable by surface vessels.
+
+7.3.1
+	
+
+Shore lead: A lead between drift ice and the shore or between drift ice and an ice front.
+
+7.3.2
+	
+
+Flaw lead: A passage-way between drift ice and fast ice which is navigable by surface vessels.
+
+7.4
+	
+
+Polynya: Any non-linear shaped opening enclosed in ice. Polynyas may contain brash ice and/or be covered with new ice, nilas or young ice.
+
+7.4.1
+	
+
+Shore polynya: A polynya between drift ice and the coast or between drift ice and an ice front.
+
+7.4.2
+	
+
+Flaw polynya: A polynya between drift ice and fast ice.
+
+7.4.3
+	
+
+Recurring polynya: A polynya, which recurs in the same position every year.
+
+8
+	
+
+Ice-surface features
+
+8.1
+	
+
+Level ice: Sea ice which has not been affected by deformation.
+
+8.2
+	
+
+Deformed ice: A general term for ice which has been squeezed together and in places forced upwards (and downwards). Subdivisions are rafted ice, ridged ice and hummocked ice.
+
+8.2.1
+	
+
+Rafted ice: Type of deformed ice formed by one piece of ice overriding another (cf. finger rafting).
+
+8.2.1.1
+	
+
+Ice rafting concentration: Concentration (aerial coverage) of ice rafting in an ice area in tenths.
+
+8.2.1.2
+	
+
+Finger rafted ice: Type of rafted ice in which floes thrust 'fingers' alternately over and under the other.
+
+8.2.2
+	
+
+Ridge: A line or wall of broken ice forced up by pressure. May be fresh or weathered. The submerged volume of broken ice under a ridge, forced downwards by pressure, is termed an ice keel.
+
+8.2.2.1
+	
+
+New ridge: Ridge newly formed with sharp peaks and slope of sides usually 40°. Fragments are visible from the air at low altitude.
+
+8.2.2.2
+	
+
+Weathered ridge: Ridge with peaks slightly rounded and slope of sides usually 30 to 40. Individual fragments are not discernible.
+
+8.2.2.3
+	
+
+Very weathered ridge: Ridge with tops very rounded, slope of sides usually 20-30°.
+
+8.2.2.4
+	
+
+Aged ridge: Ridge which has undergone considerable weathering. These ridges are best described as undulations.
+
+8.2.2.5
+	
+
+Consolidated ridge: A ridge in which the base has frozen together.
+
+8.2.2.6
+	
+
+Ridged ice: Ice piled haphazardly one piece over another in the form of ridges or walls. Usually found in first-year ice (cf. ridging).
+
+8.2.2.6.1
+	
+
+Ridged ice zone: An area in which much ridged ice with similar characteristics has formed.
+
+8.2.2.7
+	
+
+Shear ridge: An ice ridge formation which develops when one ice feature is grinding past another. This type of ridge is more linear than those caused by pressure alone.
+
+8.2.2.7.1
+	
+
+Shear ridge field: Many shear ridges side by side.
+
+8.2.3
+	
+
+Hummock: A hillock of broken ice which has been forced upwards by pressure. May be fresh or weathered. The submerged volume of broken ice under the hummock, forced downwards by pressure, is termed a bummock.
+
+8.2.3.1
+	
+
+Ice ridge concentration: Concentration (aerial coverage) of hummocked ice of all kinds in an ice area in tenths. Up to three values may be given to correspond to the partial concentrations.
+
+8.2.3.2
+	
+
+Hummocked ice: Sea ice piled haphazardly one piece over another to form an uneven surface. When weathered, has the appearance of smooth hillocks.
+
+8.2.3.3
+	
+
+Rubble field: An area of extremely deformed sea ice of unusual thickness formed during the winter by the motion of drift ice against, or around a protruding rock, islet or other obstruction.
+
+8.3
+	
+
+Standing floe: A separate floe standing vertically or inclined and enclosed by rather smooth ice.
+
+8.4
+	
+
+Ram: An underwater ice projection from an ice wall, ice front, iceberg or floe. Its formation is usually due to a more intensive melting and erosion of the unsubmerged part.
+
+8.5
+	
+
+Bare ice: Ice without snow cover.
+
+8.6
+	
+
+Snow-covered ice: Ice covered with snow.
+
+8.6.1
+	
+
+Snow cover concentration: Concentration (aerial coverage) of snow-covered ice in an ice area in tenths.
+
+8.6.2
+	
+
+Sastrugi: Sharp, irregular ridges formed on a snow surface by wind erosion and deposition. On drift ice the ridges are parallel to the direction of the prevailing wind at the time they were formed.
+
+8.6.3
+	
+
+Snowdrift: An accumulation of wind-blown snow deposited in the lee of obstructions or heaped by wind eddies. A crescent-shaped snowdrift, with ends pointing down-wind, is known as a snow barchan.
+
+8.7
+	
+
+Dirty ice: Ice that has a mineral or organic content of natural or anthropogenic origin on the surface or in its strata.
+
+8.8
+	
+
+Frost flowers: A growth of ice crystals by condensation from the atmosphere at points on the surface of young ice. After formation, sea water may be drawn through the ice into the flowers. These delicate, highly saline crystals effectively roughen the surface, often dramatically altering the appearance of sea ice in microwave remote sensing imagery.
+
+9
+	
+
+Stages of melting
+
+9.1
+	
+
+Puddle: An accumulation on ice of melt-water, mainly due to melting snow, but in the more advanced stages also to the melting of ice. Initial stage consists of patches of melted snow.
+
+9.2
+	
+
+Thaw holes: Vertical holes in sea ice formed when surface puddles melt through to the underlying water.
+
+9.3
+	
+
+Dried ice: Sea ice from the surface of which melt-water has disappeared after the formation of cracks and thaw holes. During the period of drying, the surface whitens.
+
+9.4
+	
+
+Rotten ice: Sea ice which has become honeycombed and which is in an advanced state of disintegration.
+
+9.5
+	
+
+Flooded ice: Sea ice which has been flooded by melt-water or river water and is heavily loaded by water and wet snow.
+
+9.6
+	
+
+Shore melt: Open water between the shore and the fast ice, formed by melting and/or as a result of river discharge.
+
+10
+	
+
+Ice of land origin
+
+10.1
+	
+
+Firn: Old snow which has recrystallized into a dense material. Unlike ordinary snow, the particles are to some extent joined together; but, unlike ice, the air spaces in it still connect with each other.
+
+10.2
+	
+
+Glacier ice: Ice in, or originating from, a glacier, whether on land or floating on the sea as icebergs, bergy bits or growlers.
+
+10.2.1
+	
+
+Glacier: A mass of snow and ice continuously moving from higher to lower ground or, if afloat, continuously spreading. The principal forms of glacier are: inland ice sheets, ice shelves, ice streams, ice caps, ice piedmonts, cirque glaciers and various types of mountain (valley) glaciers.
+
+10.2.2
+	
+
+Ice wall: An ice cliff forming the seaward margin of a glacier which is not afloat. An ice wall is aground, the rock basement being at or below sea-level (cf. ice front).
+
+10.2.3
+	
+
+Ice stream: Part of an inland ice sheet in which the ice flows more rapidly and not necessarily in the same direction as the surrounding ice. The margins are sometimes clearly marked by a change in direction of the surface slope but may be indistinct.
+
+10.2.4
+	
+
+Glacier tongue: Projecting seaward extension of a glacier, usually afloat. In the Antarctic, glacier tongues may extend over many tens of kilometers.
+
+10.3
+	
+
+Ice shelf: A floating ice sheet of considerable thickness showing 2-50 m or more above sea-level, attached to the coast. Usually of great horizontal extent and with a level or gently undulating surface. Nourished by annual snow accumulation and often also by the seaward extension of land glaciers. Limited areas may be aground. The seaward edge is termed an ice front
+
+10.3.1
+	
+
+Ice front: The vertical cliff forming the seaward face of an ice shelf or other floating glacier varying in height from 2-50 m or more above sea-level (cf. ice wall).
+
+10.4
+	
+
+Calved ice of land origin
+
+10.4.1
+	
+
+Calving: The breaking away of a mass of ice from an ice wall, ice front or iceberg.
+
+10.4.2
+	
+
+Iceberg: A massive piece of ice of greatly varying shape, protruding more than 5 m above sea-level, which has broken away from a glacier, and which may be afloat or aground. Icebergs may be described as tabular, dome-shaped, sloping, pinnacled, weathered or glacier bergs.
+
+10.4.2.1
+	
+
+Glacier berg: An irregularly shaped iceberg.
+
+10.4.2.2
+	
+
+Tabular berg: A flat-topped iceberg. Most tabular bergs form by calving from an ice shelf and show horizontal banding (cf. ice island).
+
+10.4.2.3
+	
+
+Iceberg tongue: A major accumulation of icebergs projecting from the coast, held in place by grounding and joined together by fast ice.
+
+10.4.3
+	
+
+Ice island: A large piece of floating ice protruding about 5 m above sea-level, which has broken away from an Arctic ice shelf, having a thickness of 30-50 m and an area of from a few thousand sq.m to 500 km² or more, and usually characterized by a regularly undulating surface which gives it a ribbed appearance from the air.
+
+10.4.4
+	
+
+Bergy bit: A large piece of floating glacier ice, generally showing less than 5 m above sea-level but more than 1 m and normally about 100-300 m² in area.
+
+10.4.5
+	
+
+Growler: Piece of ice smaller than a bergy bit and floating less than 1 m above the sea surface, a growler generally appears white but sometimes transparent or blue-green in colour. Extending less than 1 m above the sea surface and normally occupying an area of about 20 m², growlers are difficult to distinguish when surrounded by sea ice or in high sea state.
+
+11
+	
+
+Sky and air indications
+
+11.1
+	
+
+Water sky: Dark streaks on the underside of low clouds, indicating the presence of water features in the vicinity of sea ice.
+
+11.2
+	
+
+Ice blink: A whitish glare on low clouds above an accumulation of distant ice.
+
+11.3
+	
+
+Frost smoke: Fog-like clouds due to contact of cold air with relatively warm water, which can appear over openings in the ice, or leeward of the ice edge, and which may persist while ice is forming.
+
+12
+	
+
+Terms relating to surface shipping
+
+12.1
+	
+
+Beset: Situation of a vessel surrounded by ice and unable to move.
+
+12.2
+	
+
+Ice-bound: A harbour, inlet, etc. is said to be ice-bound when navigation by ships is prevented on account of ice, except possibly with the assistance of an icebreaker.
+
+12.3
+	
+
+Nip: Ice is said to nip when it forcibly presses against a ship. A vessel so caught, though undamaged, is said to have been nipped.
+
+12.4
+	
+
+Ice under pressure: Ice in which deformation processes are actively occurring and hence a potential impediment or danger to shipping.
+
+12.5
+	
+
+Difficult area: A general qualitative expression to indicate, in a relative manner, that the severity of ice conditions prevailing in an area is such that navigation in it is difficult.
+
+12.6
+	
+
+Easy area: A general qualitative expression to indicate in a relative manner, that ice conditions prevailing in an area are such that navigation in it is not difficult.
+
+12.7
+	
+
+Area of weakness: A satellite-observed area in which either the ice concentration or the ice thickness is significantly less than that in the surrounding areas. Because the condition is satellite observed, a precise quantitative analysis is not always possible, but navigation conditions are significantly easier than in surrounding areas.
+
+12.8
+	
+
+Ice port: An embayment in an ice front, often of a temporary nature, where ships can moor alongside and unload directly onto the ice shelf.
+
+13
+	
+
+Terms relating to submarine navigation
+
+13.1
+	
+
+Ice canopy: Drift ice from the point of view of the submariner.
+
+13.2
+	
+
+Friendly ice: From the point of view of the submariner, an ice canopy containing many large skylights or other features which permit a submarine to surface. There must be more than ten such features per 30 nautical miles (56 km) along the submarine's track.
+
+13.3
+	
+
+Hostile ice: From the point of view of the submariner, an ice canopy containing no large skylights or other features which permit a submarine to surface.
+
+13.4
+	
+
+Bummock: From the point of view of the submariner, a downward projection from the underside of the ice canopy; the counterpart of a hummock.
+
+13.5
+	
+
+Ice keel: From the point of view of the submariner, a downward-projecting ridge on the underside of the ice canopy; the counterpart of a ridge. Ice keels may extend as much as 50 m below sea-level.
+
+13.6
+	
+
+Skylight: From the point of view of the submariner, thin places in the ice
+canopy, usually less than 1 m thick and appearing from below as relatively
+light, translucent patches in dark surroundings. The undersurface of a skylight
+is normally flat. Skylights are called large if big enough for a submarine to
+attempt to surface through them (120 m), or small if not.
