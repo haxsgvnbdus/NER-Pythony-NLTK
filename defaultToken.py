@@ -1,3 +1,5 @@
+#!/usr/bin/ python
+# -*- coding: utf-8 -*-
 import tokenize
 import sys, getopt, math, os.path
 
@@ -18,7 +20,7 @@ def main(argv):
 	
 def handle_token(type, token, (srow, scol), (erow, ecol), line):
 
-	print "%d-%d:%s" % (scol, ecol, token)		#repr for tokens to see its type
+	print "%d,%d-%d,%d:%s" % (srow, scol, erow, ecol, token)		#repr for tokens to see its type
 	
 
 if __name__ == "__main__":

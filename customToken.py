@@ -44,7 +44,7 @@ def customize(file):
 				e = new_e = int(matches.group(4)) 
 			
 			#cleaning output: if this is words, print
-			w = re.match(r'(.{1}\d+|\w+)', matches.group(5))
+			w = re.match(r'[^\s]', matches.group(5))
 			if w is not None:
 				fprint(matches.group(5), new_s, new_e)
 			
@@ -55,6 +55,6 @@ def customize(file):
 
 
 def fprint(word, start, end):
-	print "%s\t%d-%d" % (word,start,end)
+	print "%s\t%d->%d" % (word,start,end)
 if __name__ == "__main__":
     main(sys.argv[1:])
